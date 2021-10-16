@@ -8,9 +8,8 @@ window.Config = {
   SiteUrl: '/',
 
   // UptimeRobot Api Keys
-  // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1004328-7deb9fc4df464fb1d9674772',
+    'ur1103925-28d20004ee335adbbb9a71bd',
   ],
 
   // 是否显示监测站点的链接
@@ -28,8 +27,8 @@ window.Config = {
       url: 'https://blog.caozm.tk/'
     },
     {
-      text: '邮件',
-      url: 'mailto:caozm@caozm.tk'
+      text: 'GitHub',
+      url: 'https://github.com/cao-zhiming'
     }
   ]
 };
