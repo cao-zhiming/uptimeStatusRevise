@@ -24,7 +24,7 @@ window.Config = {
   Navi: [
     {
       text: '曹智铭的网站',
-      url: 'https://blog.caozm.tk/'
+      url: 'https://czhiming.cn/'
     },
     {
       text: 'GitHub',
