@@ -8352,7 +8352,7 @@ function(e, t, n) {
             className: "container"
         },
         o.a.createElement("p", null, "\u00a9 ", o.a.createElement(l, {
-            to: "https://blog.caozm.tk/",
+            to: "https://czhiming.cn/",
             text: "\u66f9\u667a\u94ed\u7684\u7f51\u7ad9"
         }), " \uff0c\u66f9\u667a\u94ed\u3002 "), o.a.createElement("p", null, "\u4f7f\u7528\u0055\u0070\u0074\u0069\u006d\u0065\u0072\u006f\u0062\u006f\u0074\u0020\u0041\u0050\u0049\uff0c\u5e76\u6dfb\u52a0\u4e86\u8bb8\u591a\u5f00\u6e90\u0043\u0053\u0053\u5e93\u3002")))
     };
